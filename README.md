@@ -1,6 +1,5 @@
 # NeetCode.io Python Solutions
 
----
 **Arrays & Hashing**
 | # | Title | Difficulty | Done |
 |---| ----- | -------- | ----- |
