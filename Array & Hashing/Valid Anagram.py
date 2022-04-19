@@ -2,7 +2,7 @@ class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         '''
         Time: O(n)
-                Space: O(1)
+        Space: O(1)
         '''
         d = {}
 
