@@ -21,3 +21,8 @@
 |15| [3Sum](https://leetcode.com/problems/3sum/) | Medium | |
 |11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | |
 |42| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | |
+
+**Heap/Priority Queue**
+| # | Title | Difficulty | Done |
+|---| ----- | -------- | ----- |
+|703| [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | ✅ |
