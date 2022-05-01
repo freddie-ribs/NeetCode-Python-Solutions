@@ -29,3 +29,4 @@
 |1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | ✅ |
 |973| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | ✅ |
 |215| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | ✅ |
+|621| [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | ✅ |
