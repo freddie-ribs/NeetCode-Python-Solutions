@@ -22,10 +22,11 @@
 |11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | ✅ |
 |42| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | ✅ |
 
-**Two Pointers**
+**Sliding Window**
 | # | Title | Difficulty | Done |
 |---| ----- | -------- | ----- |
-|424| (Longest Repeating Character Replacement)[https://leetcode.com/problems/longest-repeating-character-replacement/] | Medium | ✅ |
+|424| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | ✅ |
+|567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | ✅ |
 
 **Heap/Priority Queue**
 | # | Title | Difficulty | Done |
