@@ -27,6 +27,7 @@
 |---| ----- | -------- | ----- |
 |424| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | ✅ |
 |567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | ✅ |
+|239| [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | ✅ |
 
 **Heap/Priority Queue**
 | # | Title | Difficulty | Done |
