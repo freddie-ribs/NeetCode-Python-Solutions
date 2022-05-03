@@ -29,6 +29,11 @@
 |567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | ✅ |
 |239| [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | ✅ |
 
+**Stack**
+| # | Title | Difficulty | Done |
+|---| ----- | -------- | ----- |
+|20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | ✅ |
+
 **Heap/Priority Queue**
 | # | Title | Difficulty | Done |
 |---| ----- | -------- | ----- |
