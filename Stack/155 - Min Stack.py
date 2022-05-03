@@ -1,6 +1,3 @@
-from curses import ACS_DARROW
-
-
 class MinStack:
     '''
     Stack operations in O(1) time
