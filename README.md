@@ -25,6 +25,7 @@
 **Sliding Window**
 | # | Title | Difficulty | Done |
 |---| ----- | -------- | ----- |
+|121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Medium | ✅ |
 |424| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | ✅ |
 |567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | ✅ |
 |239| [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | ✅ |
