@@ -38,6 +38,11 @@
 |155| [Min Stack](https://leetcode.com/problems/min-stack/) | Easy | ✅ |
 |150| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | ✅ |
 
+**Stack**
+| # | Title | Difficulty | Done |
+|---| ----- | -------- | ----- |
+|704| [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | ✅ |
+
 **Heap/Priority Queue**
 | # | Title | Difficulty | Done |
 |---| ----- | -------- | ----- |
