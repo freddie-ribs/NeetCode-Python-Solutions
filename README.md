@@ -38,10 +38,11 @@
 |155| [Min Stack](https://leetcode.com/problems/min-stack/) | Easy | ✅ |
 |150| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | ✅ |
 
-**Stack**
+**Binary Search**
 | # | Title | Difficulty | Done |
 |---| ----- | -------- | ----- |
 |704| [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | ✅ |
+|875| [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | ✅ |
 
 **Heap/Priority Queue**
 | # | Title | Difficulty | Done |
