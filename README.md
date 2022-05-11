@@ -43,6 +43,7 @@
 |---| ----- | -------- | ----- |
 |704| [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | ✅ |
 |875| [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | ✅ |
+|981| [Time Based Key-Value Store]() | Medium | ✅ |
 
 **Heap/Priority Queue**
 | # | Title | Difficulty | Done |
