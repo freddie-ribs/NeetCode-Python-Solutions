@@ -45,6 +45,11 @@
 |875| [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | ✅ |
 |981| [Time Based Key-Value Store]() | Medium | ✅ |
 
+**Linked List**
+| # | Title | Difficulty | Done |
+|---| ----- | -------- | ----- |
+|143| [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | ✅ |
+
 **Heap/Priority Queue**
 | # | Title | Difficulty | Done |
 |---| ----- | -------- | ----- |
