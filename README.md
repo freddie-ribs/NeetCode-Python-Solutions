@@ -42,6 +42,7 @@
 | # | Title | Difficulty | Done |
 |---| ----- | -------- | ----- |
 |704| [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | ✅ |
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| Medium | ✅ |
 |875| [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | ✅ |
 |981| [Time Based Key-Value Store]() | Medium | ✅ |
 
