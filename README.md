@@ -54,6 +54,7 @@
 |143| [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | ✅ |
 |19| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | ✅ |
 |138| [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | ✅ |
+|2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | ✅ |
 
 **Heap/Priority Queue**
 | # | Title | Difficulty | Done |
