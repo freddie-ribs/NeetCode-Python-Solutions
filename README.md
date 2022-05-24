@@ -60,6 +60,11 @@
 |141| [Linke List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | ✅ |
 |287| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | ✅ |
 
+**Trees**
+| # | Title | Difficulty |
+|---| ----- | -------- |
+|226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy |
+
 **Heap/Priority Queue**
 | # | Title | Difficulty | Done |
 |---| ----- | -------- | ----- |
