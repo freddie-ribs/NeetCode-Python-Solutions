@@ -65,6 +65,7 @@
 |---| ----- | -------- |
 |226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy |
 |104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy |
+|543| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy |
 
 **Heap/Priority Queue**
 | # | Title | Difficulty | Done |
